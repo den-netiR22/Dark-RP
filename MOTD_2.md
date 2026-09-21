@@ -1,6 +1,6 @@
 # Mordhau Server
 
-![Карта сервера](https://raw.githubusercontent.com/den-netiR22/MORD/main/Dark_RP_map.png)
+![Карта сервера](https://raw.githubusercontent.com/den-netiR22/Dark-RP/main/Dark_RP_map.png)
 
 ---
 
