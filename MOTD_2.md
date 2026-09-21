@@ -1,4 +1,4 @@
-# Mordhau Server
+# Dark RP Mordhau Server
 
 ![Карта сервера](https://raw.githubusercontent.com/den-netiR22/Dark-RP/main/Dark_RP_map.png)
 
